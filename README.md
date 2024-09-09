@@ -1,4 +1,16 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Scope Fall 24 Lesson 0
+
+### Installation
+
+1. Type `node -v` in your terminal to confirm you have node installed
+2. Download [here] if not installed (https://nodejs.org/en/download/)
+
+
+### Creating a Next.js project
+
+1. In your terminal type `npx create-next-app@latest`
+2. Configuration:
+![Configuration](./Screenshot%202024-09-09%20021635.png)
 
 ## Getting Started
 
