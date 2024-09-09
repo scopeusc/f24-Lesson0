@@ -9,8 +9,7 @@
 ### Creating a Next.js project
 
 1. In your terminal type `npx create-next-app@latest`
-2. Configuration:
-![Configuration](./Screenshot%202024-09-09%20021635.png)
+
 
 ## Getting Started
 
