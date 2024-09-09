@@ -3,7 +3,7 @@
 ### Installation
 
 1. Type `node -v` in your terminal to confirm you have node installed
-2. Download [here] if not installed (https://nodejs.org/en/download/)
+2. If Node.js is not installed, download it [here](https://nodejs.org/en/download/).
 
 
 ### Creating a Next.js project
